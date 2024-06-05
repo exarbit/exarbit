@@ -3,10 +3,6 @@
 Welcome to **Exarbit** repository. We are experts in developing various types of websites, developing bots such as Telegram bots for various needs, and also developing blockchain utilities such as smart contracts and launchpad tokens. Please check out the various projects we have worked on below.
 
 #### 📢 Check latest projects :
-- [HTML Wedding Page Template](https://github.com/exarbit/html-wedding-page)
-- [HTML Crypto Landing Page Template](https://github.com/exarbit/html-crypto-landing-page)
-- [HTML Company Profile](https://github.com/exarbit/html-company-profile)
-- [Bot Telegram Scaping Data](https://github.com/exarbit/bot-telegram-scraping-data)
 
 #### 📢 Want to say hello? Contact us below :
 - Website : [exarbit.com](https://exarbit.com)
